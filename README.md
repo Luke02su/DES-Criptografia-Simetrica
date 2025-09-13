@@ -1,6 +1,6 @@
 # Criptografia Simétrica - DES Simplificado
 
-Este projeto didático implementa uma versão **simplificada do DES (Data Encryption Standard)** totalmente do zero, sem utilizar bibliotecas externas de criptografia oriundas do **Python**.
+Este projeto didático implementa uma versão **simplificada do DES (Data Encryption Standard)** totalmente do zero, sem utilizar bibliotecas externas de criptografia oriundas do **Python**.<br>
 O objetivo é demonstrar didaticamente como funciona a **cifragem e decifragem de mensagens** utilizando uma chave definida pelo usuário.
 Enquanto estiver sendo executado, conforme é visto o passo-a-passo logo abaixo, as **mensagens cifradas permaneceram guardadas** até que o **terminal** que executa este **prompt** seja fechado por completo, ou seja, quando não estiver mais residente na **memória temporária** do computador.
 Dentro do **código**, há alguns comentários que auxiliam no entendimento de como funciona a lógica por trás do **DES**.
